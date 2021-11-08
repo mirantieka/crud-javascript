@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "category_name": "Doktor(S3)"
+    },
+    {
+        "id": 2,
+        "category_name": "Magister(S2)"
+    },
+    {
+        "id": 3,
+        "category_name": "Sarjana(S1/D4)"
+    },
+    {
+        "id": 4,
+        "category_name": "Diploma(D3)"
+    },
+    {
+        "id": 5,
+        "category_name": "SMA/SMK Sederajat"
+    },
+    {
+        "id": 4,
+        "category_name": "SMP Sederajat"
+    },
+    {
+        "id": 5,
+        "category_name": "Lainnya"
+    }
+]
